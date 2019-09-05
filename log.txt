@@ -15,3 +15,22 @@ Song Name: Bring Da Ruckus
 Album Name: Enter The Wu-Tang (36 Chambers) [Expanded Edition]
 Preview Link: https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV
 ==========================================================================
+==========================================================================
+Venue: Riot Fest
+Location: Chicago, IL
+Date : 09/04/2019
+==========================================================================
+
+
+==========================================================================
+Title: The Last of the Mohicans
+Year released: 1992
+Rated : R
+Country: USA
+Language: English, French, Mohawk
+Plot: Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.
+Starring: Daniel Day-Lewis, Madeleine Stowe, Russell Means, Eric Schweig
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: 95%
+==========================================================================
+
